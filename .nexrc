@@ -1,0 +1,9 @@
+set autoindent
+set extended
+set iclower
+set number
+set searchincr
+set shiftwidth=4
+set showmatch
+set showmode
+set tabstop=4
